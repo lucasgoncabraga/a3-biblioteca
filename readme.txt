@@ -20,6 +20,15 @@ A aplicação é composta pelas seguintes classes principais:
 
 - **Gerenciamento de livros**: A aplicação permite adicionar, consultar, atualizar e remover livros no banco de dados.
 
+## Requisitos
+* dbeaver 
+* ⁠Java jdk21 
+* ⁠intellij 
+* ⁠mysql 
+* ⁠senha do banco de dados: admin 
+* ⁠login do banco de dados; admin 
+* ⁠nosso host é local
+
 
 ## Contribuição
 
