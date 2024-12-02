@@ -1,10 +1,12 @@
 <h2>Sobre o Projeto</h2>
 
-Integrantes: 
-Lucas Gonçalves Braga - 12522131893
-Evelyn Muniz - 12522159149
-Vinicius Sciani - 1252214265
-André de Carvalho - 12522197172
+   <h1>Integrantes</h1>
+    <ul>
+        <li>Lucas Gonçalves Braga - 12522131893</li>
+        <li>Evelyn Muniz - 12522159149</li>
+        <li>Vinicius Sciani - 1252214265</li>
+        <li>André de Carvalho - 12522197172</li>
+    </ul>
 
 <p>Este projeto tem como objetivo o desenvolvimento de uma <strong>biblioteca online</strong>, com o intuito de obter nota para a UC (Unidade Curricular) de <strong>Estrutura de Dados e Análise de Algoritmos</strong>. O projeto foi desenvolvido para demonstrar a aplicação prática de conceitos de estruturas de dados e técnicas de programação.</p>
 
