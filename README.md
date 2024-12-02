@@ -2,6 +2,8 @@
 
 <p>Este projeto tem como objetivo o desenvolvimento de uma <strong>biblioteca online</strong>, com o intuito de obter nota para a UC (Unidade Curricular) de <strong>Estrutura de Dados e Análise de Algoritmos</strong>. O projeto foi desenvolvido para demonstrar a aplicação prática de conceitos de estruturas de dados e técnicas de programação.</p>
 
+<p>Apresentação em pptx: https://www.canva.com/design/DAGYEKugAiE/LlOzzokWS4iYkApoEu_2Dw/view?utm_content=DAGYEKugAiE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h352842a31c#11</p>
+
 <p>No decorrer do desenvolvimento, foram utilizadas diversas estruturas de dados para garantir a eficiência e a organização do sistema. Entre as principais estruturas utilizadas, destacam-se:</p>
 
 <ul>
