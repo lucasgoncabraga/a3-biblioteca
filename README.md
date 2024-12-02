@@ -220,6 +220,8 @@ A classe <code>SecurityConfig</code> utiliza o Spring Security para gerenciar a 
    <li>Implementação de <strong>Árvore Binária de Busca</strong>.</li>
    <li>Uso de <strong>Fila</strong> para reservas.</li>
    <li>Configuração de <strong>Segurança</strong> com autenticação.</li>
+   <li>Configuração de <strong>endpoints</strong></li>
+   <li>Configuração de <strong>Exceptions</strong> para tratamento de erros</li>
 
  </ol>
  </ol>
